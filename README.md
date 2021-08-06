@@ -33,8 +33,8 @@
         display: none;
     }
     .topTitleOut {
-        background: url(http://via.placeholder.com/2000x300) no-repeat scroll center center / cover;
-        color: #fff;
+        background: url(https://cdn.ymaws.com/acec-ca.site-ym.com/resource/resmgr/prevailing_wage_webinar/2prevailing_wage_webinar_ban.png) no-repeat scroll center center / cover;
+        color: #b31c30;
         font-weight: bold;
         margin-bottom: 0px;
         text-align: center;
@@ -57,7 +57,7 @@
         height: auto !important;
     }
     .navigation {
-        background:#aa1e2d;
+        background:#a0b44bd;
         padding: 20px 0;
     }
     .inNavIn {
@@ -80,7 +80,7 @@
         padding: 20px 0;
         left: 0;
         display: none;
-        background: #aa1e2d;
+        background: #a0b4bd;
         z-index: 300;
     }
     #topVideo {
@@ -468,16 +468,34 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-                <h1>Lorem Ipsum Dolor</h1>
-                <h4>May 19, 2017</h4>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
-                    book.
+		    <h1><strong>Advanced</strong> Prevailing Wage</h1>
+		    <h1>Webinar Series</h1>
+                <h4>September X, 2021 | 9:30 am - 3:30 pm</h4>
+		    <h5><i>*break from 11:30 am - 1:00 pm.</i></h5>
+		    <p>The <strong>Advanced</strong> Prevailing Wage Webinar Series will include four (4) modules. Module 1: blah blah blah; Module 2: blah blah blah; Module 3: blah blah blah; Module 4: blah blah blah.
                 </p>
             </div>
             <div class="col-sm-6">
-                <iframe src="https://www.youtube.com/embed/NpEaa2P7qZI" allow="autoplay; encrypted-media" width="100%" height="315" frameborder="0"></iframe>
-            </div>
+                <iframe src="https://cdn.ymaws.com/acec-ca.site-ym.com/resource/resmgr/prevailing_wage_webinar/prevailing_wage_logo.png" width="100%" height="315" frameborder="0"></iframe>
+          </div>
         </div>
+        <div class="trig" id="a1"> </div>
+        <h2><i class="fas fa-calendar-alt"></i> Registration</h2>
+        <br />
+        <table style="text-align: center; width: 481px; height: 42px;" cellpadding="10">
+            <tbody>
+                <tr>
+                    <td style="background-color: #b31c30;">
+                        <span style="font-size: 22px;"><b><span style="font-size: 22px;"><span style="font-size: 22px;">DAY 1
+</span></span>
+                        </b>
+                        </span>
+                    </td>
+                    <td><span style="font-size: 22px;"><b>&nbsp;</b></span></td>
+                    <td style="background-color: #b31c30;"><span style="font-size: 22px;"><b>Day 2&nbsp;</b></span></td>
+                </tr>
+            </tbody>
+        </table>
     </div>
 </div>
 
@@ -485,160 +503,20 @@
 <div id="eventOut" class="col-sm-12">
     <div class="trig" id="a2"> </div>
     <div class="container">
-        <div id="desc1" class="col-sm-4">
-            <h2><i class="fas fa-hotel"></i> Venue</h2>
-            <p class="smRed">May 19, 2017</p>
-            <h3>The Awesome Hotel</h3>
-            <p>9620 Executive Center Dr N #200, St. Petersburg, FL 33702</p>
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
-                book
-            </p>
+        <div id="desc1" class="col-sm-6">
+            <h3><strong>Day 1 Schedule</strong></h3>
+            <h4>Coming Soon...</h4>
 
         </div>
 
-        <div id="desc2" class="col-sm-4">
-            <h2><i class="fas fa-bed"></i> Hotel Accommodation</h2>
-            <h3>Where can I stay?</h3>
-            <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </p>
-            <div class="row">
-                <div class="col-sm-6 linkCol">
-                    <a href="#">Hotel 1</a>
-                    <a href="#">Hotel 2</a>
-                    <a href="#">Hotel 3</a>
-                    <a href="#">Hotel 4</a>
-                </div>
-                <div class="col-sm-6 linkCol">
-                    <a href="#">Hotel 5</a>
-                    <a href="#">Hotel 6</a>
-                    <a href="#">Hotel 7</a>
-                    <a href="#">Hotel 8</a>
-                </div>
-            </div>
-
-
+        <div id="desc2" class="col-sm-6">
+            <h3><strong>Day 2 Schedule</strong></h3>
+            <h4>Coming Soon...</h4>
         </div>
 
-        <div id="desc3" class="col-sm-4">
-            <h2><i class="fas fa-location-arrow"></i> Location Map</h2>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3527.3870347671286!2d-82.6441652851482!3d27.85937888272927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c2e79f9e211f0b%3A0x1aa0703c8458af61!2sCommunity%20Brands!5e0!3m2!1sen!2sus!4v1598891849962!5m2!1sen!2sus"
-                width="100%" height="200" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-        </div>
     </div>
 </div>
 <!-------Event detail---->
-
-<div id="cpTestimonialOut" class="col-sm-12">
-    <div class="trig" id="a3"> </div>
-    <div class="cpContainer">
-        <div class="row">
-            <section id="section1" class="offset">
-                <div id="testimonialSlider" class="carousel slide" data-ride="carousel">
-                    <h1>What Our Customers Say</h1>
-                    <div class="carousel-inner">
-                        <div class="item">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel tincidunt ex. Duis nisi ligula, fermentum sit amet gravida eu, eleifend eget tellus. Phasellus lobortis ac arcu non aliquet. Aliquam viverra eros vitae imperdiet
-                                malesuada. Morbi id aliquet lorem. Integer lectus elit, aliquet vitae felis nec, interdum tristique mi.</p>
-                            <h3>Aliquam Ac Lacus</h3>
-                            <h3>Nulla</h3>
-                        </div>
-                        <div class="item">
-                            <p>Fusce congue mi vulputate, consectetur urna et, volutpat mi. Vestibulum accumsan sapien sed neque condimentum malesuada. Mauris sed elementum augue. Curabitur malesuada turpis sit amet libero hendrerit, eu rutrum orci ornare.
-                                Vestibulum ullamcorper, sapien ut ullamcorper elementum, sapien erat hendrerit est, id vulputate lorem purus vel lectus.</p>
-                            <h3>Integer Interdum, Luctus Accumsan</h3>
-                            <h3>Aliquam In Aliquam</h3>
-                        </div>
-                        <div class="item active">
-                            <p>Duis mollis diam ut elit eleifend, eu condimentum ipsum congue. Vivamus interdum nibh at nisi blandit eleifend. Donec tempor convallis libero non maximus. Morbi varius sodales congue. Duis a massa in ipsum tempor malesuada
-                                sit amet eu est. Maecenas posuere tempor cursus. Fusce non imperdiet tellus. Morbi sed ultrices ante, at imperdiet orci. Pellentesque auctor mauris nec lectus egestas ultrices.</p>
-                            <h3>Vivamus Interdum, Donec Tempor</h3>
-                            <h3>Pellentesque</h3>
-                        </div>
-                    </div>
-                    <a data-slide="prev" href="#testimonialSlider" class="left carousel-control"><i class="fa fa-chevron-left"></i></a> <a data-slide="next" href="#testimonialSlider" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>                    </div>
-            </section>
-        </div>
-    </div>
-</div>
-
-<div id="prisingOut" class="col-sm-12">
-    <div class="trig" id="a4"> </div>
-    <div class="container">
-        <!--------Pricing Heading-------->
-        <div id="priceHeading" class="row">
-            <h1>Pricing</h1>
-            <div id="priceInfo" class="col-sm-12">
-                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
-            </div>
-        </div>
-        <!-------Booking Row 1----------->
-        <div class="row bookRow">
-            <div class="col-sm-2 date"> NOV-11-2019 </div>
-            <div class="col-sm-5 details">
-                <div cass="row">
-                    <div class="col-sm-4 detTitle">
-                        <p>EARLY BIRD</p>
-                    </div>
-                    <div class="col-sm-8 detDes">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-5 price">
-                <div cass="row">
-                    <div class="col-sm-6 pirceInfo">
-                        <p>$29.99</p>
-                    </div>
-                    <div class="col-sm-6 bookBTN"> <a href="#">Book Now</a> </div>
-                </div>
-            </div>
-        </div>
-        <!-------Booking Row 2----------->
-        <div class="row bookRow">
-            <div class="col-sm-2 date"> NOV-11-2019 </div>
-            <div class="col-sm-5 details">
-                <div cass="row">
-                    <div class="col-sm-4 detTitle">
-                        <p>MEMBER</p>
-                    </div>
-                    <div class="col-sm-8 detDes">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-5 price">
-                <div cass="row">
-                    <div class="col-sm-6 pirceInfo">
-                        <p>$29.99</p>
-                    </div>
-                    <div class="col-sm-6 bookBTN"> <a href="#">Book Now</a> </div>
-                </div>
-            </div>
-        </div>
-        <!-------Booking Row 3----------->
-        <div class="row bookRow">
-            <div class="col-sm-2 date"> NOV-11-2019 </div>
-            <div class="col-sm-5 details">
-                <div cass="row">
-                    <div class="col-sm-4 detTitle">
-                        <p>FULL PRICE</p>
-                    </div>
-                    <div class="col-sm-8 detDes">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-sm-5 price">
-                <div cass="row">
-                    <div class="col-sm-6 pirceInfo">
-                        <p>$29.99</p>
-                    </div>
-                    <div class="col-sm-6 bookBTN"> <a href="#">Book Now</a> </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
 <!------Speaker Section-------->
 <div id="speakersOut" class="col-sm-12">
     <div class="trig" id="a3"> </div>
@@ -646,11 +524,9 @@
         <div class="row">
             <div id="spekerImage" class="col-sm-6"> <img alt="" class="img-responsive center-block" src="http://via.placeholder.com/600x400"> </div>
             <div id="spekerInfo" class="col-sm-6">
-                <h1>Speaker</h1>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
-                    book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-                <p> It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                <a>Read More</a> </div>
+                <h1>Michael McCoy, JD, ThD. Lead Instructor</h1>
+                <p>As Vice President of PWCA Inc., Michael brings ACEC members his passion, along with over 30 years of law, finance and public works compliance experience while consulting for various municipalities. To date, Michael has lectured to and has trained more prevailing wage contractors and awarding bodies than any other public works consultant in California.</p>
+                </div>
         </div>
     </div>
 </div>
@@ -660,14 +536,42 @@
         <div class="row">
             <div id="spekerImage" class="col-sm-6"> <img alt="" class="img-responsive center-block" src="http://via.placeholder.com/600x400"> </div>
             <div id="spekerInfo" class="col-sm-6">
-                <h1>Speaker</h1>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen
-                    book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-                <p> It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                <a>Read More</a> </div>
+                <h1>Ken McCoy</h1>
+                <p>As a nationally syndicated talk show creator for iHeart Radio, Ken brings his lively talk show attitude to PWCA's live webinar broadcasts. With his broad understanding of DIR, Federal Davis-Bacon an OSHA Compliance, Ken tag teams with Michael to keep the webinar engaging from the beginning to the end. Ken's motto is, <i>"This is not your boring, garden-variety webinar!"</i></p>
+                </div>
         </div>
     </div>
 </div>
+<!--------Pricing Heading-------->
+        <div id="priceHeading" class="row">
+            <h1>Sponsorship Opportunities</h1>
+            <div id="priceInfo" class="col-sm-12">
+                    </div>
+        </div>
+        <!-------Booking Row 1----------->
+        <div class="row bookRow">
+            <div class="col-sm-2 date"> Sponsor </div>
+            <div class="col-sm-5 details">
+                <div cass="row">
+                    <div class="col-sm-4 detTitle">
+                        <p>4 Available</p>
+                    </div>
+                    <div class="col-sm-8 detDes">
+                        <p>Logo will be included on a rotating banner on the ACEC California Prevailing Wage event page. | ACEC California will plug them on Social Media and/or feature in our monthly newsletter. | They will get a plug at the Opening Event. </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-5 price">
+                <div cass="row">
+                    <div class="col-sm-6 pirceInfo">
+                        <p>$450</p>
+                    </div>
+                    <div class="col-sm-6 bookBTN"> <a href="#">Sponsor Now</a> </div>
+                </div>
+            </div>
+        </div>
+        <!-------Booking Row 2----------->
+        <!-------Booking Row 3----------->
 <!------Sponsor Slider-------->
 <div id="sponsorSlider" class="col-sm-12">
     <div class="trig" id="a5"> </div>
@@ -679,16 +583,16 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
                 <div class="item next left">
-                    <div class="col-sm-3"> <img class="img-responsive" src="http://via.placeholder.com/200x100"> </div>
-                    <div class="col-sm-3"> <img class="img-responsive" src="http://via.placeholder.com/200x100"> </div>
-                    <div class="col-sm-3"> <img class="img-responsive" src="http://via.placeholder.com/200x100"> </div>
-                    <div class="col-sm-3"> <img class="img-responsive" src="http://via.placeholder.com/200x100"> </div>
+                    <div class="col-sm-3"> <img class="img-responsive" src=""> </div>
+                    <div class="col-sm-3"> <img class="img-responsive" src=""> </div>
+                    <div class="col-sm-3"> <img class="img-responsive" src=""> </div>
+                    <div class="col-sm-3"> <img class="img-responsive" src=""> </div>
                 </div>
                 <div class="item active left">
-                    <div class="col-sm-3"> <img class="img-responsive" src="http://via.placeholder.com/200x100"> </div>
-                    <div class="col-sm-3"> <img class="img-responsive" src="http://via.placeholder.com/200x100"> </div>
-                    <div class="col-sm-3"> <img class="img-responsive" src="http://via.placeholder.com/200x100"> </div>
-                    <div class="col-sm-3"> <img class="img-responsive" src="http://via.placeholder.com/200x100"> </div>
+                    <div class="col-sm-3"> <img class="img-responsive" src=""> </div>
+                    <div class="col-sm-3"> <img class="img-responsive" src=""> </div>
+                    <div class="col-sm-3"> <img class="img-responsive" src=""> </div>
+                    <div class="col-sm-3"> <img class="img-responsive" src=""> </div>
                 </div>
             </div>
         </div>
@@ -701,6 +605,6 @@
         <h2>Our Sponsors</h2>
     </div>
     <div class="container">
-        <div class="row"> <a href="#" class="sponBTN">For Full list of Sponsors Click Here</a> </div>
+        <div class="row"> <a href="#" class="sponBTN"></a> </div>
     </div>
 </div>

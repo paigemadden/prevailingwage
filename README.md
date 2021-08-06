@@ -57,7 +57,7 @@
         height: auto !important;
     }
     .navigation {
-        background:#a0b44bd;
+        background:#a0b4bd;
         padding: 20px 0;
     }
     .inNavIn {
@@ -70,7 +70,7 @@
         padding: 0 15px;
         text-align: center;
         font-size: 18px;
-        color: #fff;
+        color: #000;
     }
     .altNav {
         width: 100%;
@@ -250,7 +250,7 @@
     }
     #eventOut {
 		padding: 60px 0;
-		background: #f4fbff;
+		background: #D7E6EF;
 	}
 	#desc2 a {
 		display: block;
@@ -259,12 +259,12 @@
 	div#eventOut h3 i {
 		display: block;
 		margin-bottom: 10px;
-		color: #353E70;
+		color: #000;
 		font-size: 36px;
 	}
 	
-	#eventOut h2{
-	color: #666;
+	#eventOut h3{
+	color: #000;
     margin-bottom: 30px;
     margin-top: 0;
     padding-bottom: 18px;
@@ -544,7 +544,8 @@
     </div>
 </div>
 <!--------Pricing Heading-------->
-        <br><br><br>
+        <div id="eventOut" class="col-sm-12">
+	<br>
 	    <div class="trig" id="a4"> </div>
 	    <div id="priceHeading" class="row">
             <h1>Sponsorship Opportunities</h1>
@@ -552,7 +553,7 @@
                     </div>
         </div>
         <!-------Booking Row 1----------->
-        <div class="row bookRow">
+       <div id="eventOut" class="col-sm-12">
             <div class="col-sm-2 date"> Sponsor </div>
             <div class="col-sm-5 details">
                 <div cass="row">

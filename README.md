@@ -38,7 +38,7 @@
         font-weight: bold;
         margin-bottom: 0px;
         text-align: center;
-        padding: 100px 0px;
+        padding: 50px 0px;
         text-shadow: 0 0 3px rgba(0, 0, 0, .3);
         text-transform: uppercase;
         font-size: 36px;
@@ -219,7 +219,7 @@
         ================================*/
     #speakersOut {
         padding: 60px 0;
-        background: #333333;
+        background: #fff;
     }
     /*Sponsor section
         ================================*/
@@ -256,7 +256,7 @@
 		display: block;
 		margin-bottom: 10px;
 	}
-	div#eventOut h2 i {
+	div#eventOut h3 i {
 		display: block;
 		margin-bottom: 10px;
 		color: #353E70;
@@ -451,16 +451,16 @@
 <!--Do not remove site will Break-->
 <!--TOP TITLE-->
 <div class="col-sm-12 topTitleOut">
-    <div class="container"> Custom Page 1 </div>
+	<div class="container"><i>Advanced</i> Prevailing Wage Webinar Series</div>
 </div>
 <div class="col-sm-12 navigation">
     <div class="container">
-        <div class="inNavIn"> <a href="#a1">Area1</a> <a href="#a2">Area2</a> <a href="#a3">Area3</a> <a href="#a4">Area4</a> <a href="#a5">Area5</a> </div>
+        <div class="inNavIn"> <a href="#a1">Registration</a> <a href="#a2">Schedule</a> <a href="#a3">Speakers</a> <a href="#a4">Sponsorship</a></div>
     </div>
 </div>
 <div class="col-sm-12 altNav">
     <div class="container">
-        <div class="inNavIn"> <a href="#a1">Area1</a> <a href="#a2">Area2</a> <a href="#a3">Area3</a> <a href="#a3">Area4</a> <a href="#a5">Area5</a> <a href="#a1">To top</a> </div>
+        <div class="inNavIn"> <a href="#a1">Registration</a> <a href="#a2">Schedule</a> <a href="#a3">Speakers</a> <a href="#a3">Sponsorships</a><a href="#a1">To top</a> </div>
     </div>
 </div>
 <div id="topVideo" class="col-sm-12 area">
@@ -471,7 +471,7 @@
 		    <h1><strong>Advanced</strong> Prevailing Wage</h1>
 		    <h1>Webinar Series</h1>
                 <h4>September X, 2021 | 9:30 am - 3:30 pm</h4>
-		    <h5><i>*break from 11:30 am - 1:00 pm.</i></h5>
+		    <h5><i>*break from 11:30 am - 1:00 pm.</i></h5><br>
 		    <p>The <strong>Advanced</strong> Prevailing Wage Webinar Series will include four (4) modules. Module 1: blah blah blah; Module 2: blah blah blah; Module 3: blah blah blah; Module 4: blah blah blah.
                 </p>
             </div>
@@ -479,7 +479,7 @@
                 <iframe src="https://cdn.ymaws.com/acec-ca.site-ym.com/resource/resmgr/prevailing_wage_webinar/prevailing_wage_logo.png" width="100%" height="315" frameborder="0"></iframe>
           </div>
         </div>
-        <div class="trig" id="a1"> </div>
+        <hr><div class="trig" id="a1"> </div>
         <h2><i class="fas fa-calendar-alt"></i> Registration</h2>
         <br />
         <table style="text-align: center; width: 481px; height: 42px;" cellpadding="10">
@@ -522,9 +522,10 @@
     <div class="trig" id="a3"> </div>
     <div class="container">
         <div class="row">
-            <div id="spekerImage" class="col-sm-6"> <img alt="" class="img-responsive center-block" src="http://via.placeholder.com/600x400"> </div>
+            <div id="spekerImage" class="col-sm-3"> <img alt="" class="img-responsive center-block" src="https://cdn.ymaws.com/acec-ca.site-ym.com/resource/resmgr/prevailing_wage_webinar/10.png"> </div>
             <div id="spekerInfo" class="col-sm-6">
-                <h1>Michael McCoy, JD, ThD. Lead Instructor</h1>
+                <h2>Michael McCoy, JD, ThD.</h2>
+		    <h3>Lead Instructor</h3>
                 <p>As Vice President of PWCA Inc., Michael brings ACEC members his passion, along with over 30 years of law, finance and public works compliance experience while consulting for various municipalities. To date, Michael has lectured to and has trained more prevailing wage contractors and awarding bodies than any other public works consultant in California.</p>
                 </div>
         </div>
@@ -534,16 +535,18 @@
 
     <div class="container">
         <div class="row">
-            <div id="spekerImage" class="col-sm-6"> <img alt="" class="img-responsive center-block" src="http://via.placeholder.com/600x400"> </div>
+            <div id="spekerImage" class="col-sm-3"> <img alt="" class="img-responsive center-block" src="https://cdn.ymaws.com/acec-ca.site-ym.com/resource/resmgr/prevailing_wage_webinar/11.png"> </div>
             <div id="spekerInfo" class="col-sm-6">
-                <h1>Ken McCoy</h1>
-                <p>As a nationally syndicated talk show creator for iHeart Radio, Ken brings his lively talk show attitude to PWCA's live webinar broadcasts. With his broad understanding of DIR, Federal Davis-Bacon an OSHA Compliance, Ken tag teams with Michael to keep the webinar engaging from the beginning to the end. Ken's motto is, <i>"This is not your boring, garden-variety webinar!"</i></p>
+                <h2>Ken McCoy</h2>
+                <p>As a nationally syndicated talk show creator for iHeart Radio, Ken brings his lively talk show attitude to PWCA's live webinar broadcasts. With his broad understanding of DIR, Federal Davis-Bacon an OSHA Compliance, Ken tag teams with Michael to keep the webinar engaging from the beginning to the end. Ken's motto is: <i>"This is not your boring, garden-variety webinar!"</i></p>
                 </div>
         </div>
     </div>
 </div>
 <!--------Pricing Heading-------->
-        <div id="priceHeading" class="row">
+        <br><br><br>
+	    <div class="trig" id="a4"> </div>
+	    <div id="priceHeading" class="row">
             <h1>Sponsorship Opportunities</h1>
             <div id="priceInfo" class="col-sm-12">
                     </div>
@@ -574,10 +577,10 @@
         <!-------Booking Row 3----------->
 <!------Sponsor Slider-------->
 <div id="sponsorSlider" class="col-sm-12">
-    <div class="trig" id="a5"> </div>
+    <div class="trig"</div>
     <div class="container">
         <div class="sTitle">
-            <h1>Our Sponsors</h1>
+            <h1></h1>
         </div>
         <div id="sponsor-carousel" class="carousel slide" data-ride="carousel">
             <!-- Wrapper for slides -->

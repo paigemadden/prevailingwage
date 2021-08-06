@@ -44,7 +44,7 @@
         font-size: 36px;
     }
 	.smRed {
-		color: #AA1E2D;
+		color: #b31c30;
 		font-weight: bold;
 	}
 	
@@ -142,7 +142,7 @@
         padding-top: 20px;
     }
     .date {
-        color: #666;
+        color: #000;
         font-size: 17px;
         text-align: center;
         font-weight: 600;
@@ -161,13 +161,13 @@
     .detDes {
         padding-top: 17px;
         font-size: 12px;
-        background: #333333;
+        background: #a0b4bd;
         color: #fff;
         overflow: hidden;
         text-align: center;
     }
     .detTitle {
-        background: #222d65;
+        background: #545454;
         color: #fff;
         text-align: center;
         line-height: 30px;
@@ -185,7 +185,7 @@
         position: absolute;
         font-size: 35px;
         top: 12px;
-        color: #333333;
+        color: #545454;
         z-index: 10;
     }
     .row.bookRow {
@@ -194,7 +194,7 @@
     }
     .pirceInfo {
         border-right: 1px solid #222d65;
-        color: #222d65;
+        color: #000;
         text-align: center;
         font-size: 20px;
         font-weight: 600;
@@ -205,7 +205,7 @@
     .bookBTN a {
         display: table;
         width: 73%;
-        background: #aa1e2d;
+        background: #b31c30;
         color: #fff;
         height: 38px;
         line-height: 38px;
@@ -213,13 +213,13 @@
         text-align: center;
     }
     .bookBTN a:hover {
-        background: #888;
+        background: #C23E50;
     }
     /*Speakers section
         ================================*/
     #speakersOut {
         padding: 60px 0;
-        background: #eee;
+        background: #333333;
     }
     /*Sponsor section
         ================================*/
@@ -250,7 +250,7 @@
     }
     #eventOut {
 		padding: 60px 0;
-		background: #f9f9f9;
+		background: #f4fbff;
 	}
 	#desc2 a {
 		display: block;

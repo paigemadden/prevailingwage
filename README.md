@@ -70,6 +70,7 @@
         padding: 0 15px;
         text-align: center;
         font-size: 18px;
+	font-weight: bold;
         color: #000;
     }
     .altNav {
@@ -138,7 +139,7 @@
         text-align: center;
     }
     .date, .detDes, .detTitle, .pirceInfo, .bookBTN {
-        min-height: 70px;
+        min-height: 80px;
         padding-top: 20px;
     }
     .date {
@@ -155,14 +156,14 @@
         position: absolute;
         font-size: 35px;
         top: 20px;
-        color: #fff;
+        color: #d7e6ef;
         z-index: 10;
     }
     .detDes {
         padding-top: 17px;
         font-size: 12px;
         background: #a0b4bd;
-        color: #fff;
+        color: #000;
         overflow: hidden;
         text-align: center;
     }
@@ -185,15 +186,15 @@
         position: absolute;
         font-size: 35px;
         top: 12px;
-        color: #545454;
+        color: #a0b4bd;
         z-index: 10;
     }
     .row.bookRow {
-        border: 1px solid #222d65;
+        border: 1px solid #000;
         margin-top: 20px;
     }
     .pirceInfo {
-        border-right: 1px solid #222d65;
+        border-right: 1px solid #000;
         color: #000;
         text-align: center;
         font-size: 20px;
@@ -460,7 +461,7 @@
 </div>
 <div class="col-sm-12 altNav">
     <div class="container">
-        <div class="inNavIn"> <a href="#a1">Registration</a> <a href="#a2">Schedule</a> <a href="#a3">Speakers</a> <a href="#a3">Sponsorships</a><a href="#a1">To top</a> </div>
+        <div class="inNavIn"> <a href="#a1">Registration</a> <a href="#a2">Schedule</a> <a href="#a3">Speakers</a> <a href="#a4">Sponsorships</a><a href="#a1">To top</a> </div>
     </div>
 </div>
 <div id="topVideo" class="col-sm-12 area">
